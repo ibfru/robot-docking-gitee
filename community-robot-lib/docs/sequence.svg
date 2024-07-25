@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" contentScriptType="application/ecmascript" contentStyleType="text/css"
+     height="293px" preserveAspectRatio="none" style="width:452px;height:293px;background:#FFFFFF;" version="1.1"
+     viewBox="0 0 452 293" width="452px" zoomAndPan="magnify"><defs><filter height="300%" id="fyc909r87gsi1" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#FFFFFF" filter="url(#fyc909r87gsi1)" height="29.1328" style="stroke:#A80036;stroke-width:1.0;" width="10" x="85" y="104.2969"/><rect fill="#FFFFFF" filter="url(#fyc909r87gsi1)" height="29.1328" style="stroke:#A80036;stroke-width:1.0;" width="10" x="213" y="133.4297"/><rect fill="#FFFFFF" filter="url(#fyc909r87gsi1)" height="29.1328" style="stroke:#A80036;stroke-width:1.0;" width="10" x="369.5" y="162.5625"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="28" x2="28" y1="88.2969" y2="209.6953"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="90" x2="90" y1="88.2969" y2="209.6953"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="218" x2="218" y1="88.2969" y2="209.6953"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="374" x2="374" y1="88.2969" y2="209.6953"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="5" y="84.9951">Actor</text><ellipse cx="28" cy="15" fill="#FEFECE" filter="url(#fyc909r87gsi1)" rx="8" ry="8" style="stroke:#A80036;stroke-width:2.0;"/><path d="M28,23 L28,50 M15,31 L41,31 M28,50 L15,65 M28,50 L41,65 " fill="none" filter="url(#fyc909r87gsi1)" style="stroke:#A80036;stroke-width:2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="5" y="221.6904">Actor</text><ellipse cx="28" cy="234.9922" fill="#FEFECE" filter="url(#fyc909r87gsi1)" rx="8" ry="8" style="stroke:#A80036;stroke-width:2.0;"/><path d="M28,242.9922 L28,269.9922 M15,250.9922 L41,250.9922 M28,269.9922 L15,284.9922 M28,269.9922 L41,284.9922 " fill="none" filter="url(#fyc909r87gsi1)" style="stroke:#A80036;stroke-width:2.0;"/><rect fill="#FEFECE" filter="url(#fyc909r87gsi1)" height="30.2969" style="stroke:#A80036;stroke-width:1.5;" width="54" x="61" y="53"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="68" y="72.9951">Gitee</text><rect fill="#FEFECE" filter="url(#fyc909r87gsi1)" height="30.2969" style="stroke:#A80036;stroke-width:1.5;" width="54" x="61" y="208.6953"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="68" y="228.6904">Gitee</text><rect fill="#FEFECE" filter="url(#fyc909r87gsi1)" height="30.2969" style="stroke:#A80036;stroke-width:1.5;" width="154" x="139" y="53"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="146" y="72.9951">robot_gitee_access</text><rect fill="#FEFECE" filter="url(#fyc909r87gsi1)" height="30.2969" style="stroke:#A80036;stroke-width:1.5;" width="154" x="139" y="208.6953"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="146" y="228.6904">robot_gitee_access</text><rect fill="#FEFECE" filter="url(#fyc909r87gsi1)" height="30.2969" style="stroke:#A80036;stroke-width:1.5;" width="131" x="307" y="53"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="314" y="72.9951">robot_gitee_xxx</text><rect fill="#FEFECE" filter="url(#fyc909r87gsi1)" height="30.2969" style="stroke:#A80036;stroke-width:1.5;" width="131" x="307" y="208.6953"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="314" y="228.6904">robot_gitee_xxx</text><rect fill="#FFFFFF" filter="url(#fyc909r87gsi1)" height="29.1328" style="stroke:#A80036;stroke-width:1.0;" width="10" x="85" y="104.2969"/><rect fill="#FFFFFF" filter="url(#fyc909r87gsi1)" height="29.1328" style="stroke:#A80036;stroke-width:1.0;" width="10" x="213" y="133.4297"/><rect fill="#FFFFFF" filter="url(#fyc909r87gsi1)" height="29.1328" style="stroke:#A80036;stroke-width:1.0;" width="10" x="369.5" y="162.5625"/><polygon fill="#A80036" points="73,100.2969,83,104.2969,73,108.2969,77,104.2969" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="28" x2="79" y1="104.2969" y2="104.2969"/><polygon fill="#A80036" points="201,129.4297,211,133.4297,201,137.4297,205,133.4297" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="90" x2="207" y1="133.4297" y2="133.4297"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="99" x="97" y="128.3638">webhook event</text><polygon fill="#A80036" points="357.5,158.5625,367.5,162.5625,357.5,166.5625,361.5,162.5625" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="218" x2="363.5" y1="162.5625" y2="162.5625"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="99" x="225" y="157.4966">webhook event</text><polygon fill="#A80036" points="101,187.6953,91,191.6953,101,195.6953,97,191.6953" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="95" x2="373.5" y1="191.6953" y2="191.6953"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="144" x="107" y="186.6294">do something on gitee</text><!--MD5=[ef6eb12cf1d5a77ea8cbc7b86533ff6d]
+@startuml
+actor Actor
+participant Gitee as gitee
+participant robot_gitee_access as access
+participant robot_gitee_xxx as robot
+
+Actor -> gitee
+activate gitee
+
+gitee -> access: webhook event
+deactivate gitee
+activate access
+
+access - -> robot: webhook event
+deactivate access
+activate robot
+
+robot - -> gitee: do something on gitee
+deactivate robot
+@enduml
+
+PlantUML version 1.2021.16beta3(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
